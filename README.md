@@ -1,6 +1,7 @@
 ## Oi! Eu sou o Lucas, aluno do IFPB do curso Engenharia de computação
 - Estou no terceiro período
 - Estou estudando Programação orientada a objeto
+- Back-end é a área onde eu mais me identifico
 
 <div align="center">
   <a href="https://github.com/lucasgomes14">
