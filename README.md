@@ -16,7 +16,7 @@
     <img align="center" alt="Lucas-Jupyter" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img align="center" alt="Lucas-HTML" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Lucas-CSS" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="right" alt="Lucas-picrew-gif" src="https://i.picasion.com/pic92/4d0cf939a0e905d17e661ae32d214346.gif">
+    <img align="right" alt="Lucas-picrew-gif" height="200" widht="160" src="https://i.picasion.com/pic92/4d0cf939a0e905d17e661ae32d214346.gif">
 </div>
   
 ## Redes Sociais!
