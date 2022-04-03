@@ -1,4 +1,4 @@
-## Oi! Eu sou o Lucas, aluno do IFPB do curso Engenharia de computação
+## "Hello, world!!"<br> Eu sou o Lucas, aluno do IFPB do curso Engenharia de computação
 - Estou no terceiro período
 - Estou estudando Programação orientada a objeto
 - Back-end é a área onde eu mais me identifico
@@ -9,19 +9,19 @@
 </div>   
   
 ## Conhecimentos!
-<div style="display: inline_block"><br>
-    <img align="center" alt="Lucas-Python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="Lucas-C" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="Lucas-C++" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" alt="Lucas-Jupyter" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-    <img align="center" alt="Lucas-HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="Lucas-CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<div style="display: inline_block" align="center"><br>
+    <img align="center" alt="Lucas-Python" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="Lucas-C" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center" alt="Lucas-C++" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img align="center" alt="Lucas-Jupyter" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img align="center" alt="Lucas-HTML" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="Lucas-CSS" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="right" alt="Lucas-picrew-gif" src="https://i.picasion.com/pic92/4d0cf939a0e905d17e661ae32d214346.gif">
 </div>
   
 ## Redes Sociais!
     
-<div> 
+<div align = "center"> 
   <a href="https://instagram.com/lucas.gomes_14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:lucazmatehus14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-matheus-gomes-de-lima-582b52228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
