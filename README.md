@@ -9,13 +9,15 @@
 </div>   
   
 ## Conhecimentos!
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
     <img align="center" alt="Lucas-Python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Lucas-Python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="Lucas-Python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" alt="Lucas-HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Lucas-CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
+    <img align="right" alt="Lucas-picrew-gif" src="https://i.picasion.com/pic92/4d0cf939a0e905d17e661ae32d214346.gif">
+</div>
+  
 ## Redes Sociais!
     
 <div> 
