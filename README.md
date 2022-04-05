@@ -1,7 +1,11 @@
-## "Hello, world!!"<br> Eu sou o Lucas, aluno do IFPB do curso Engenharia de computação
-- Estou no terceiro período
-- Estou estudando Programação orientada a objeto
-- Back-end é a área onde eu mais me identifico
+<div>
+  <h1 align = center>printf("Hello, world!!")</h1>
+  <h2 align = center>Eu sou o Lucas, aluno do IFPB do curso Engenharia de computação</h2>
+  <ul type = "square">
+    <li>Estou no terceiro período
+    <li>Estou estudando Programação orientada a objeto
+    <li>Back-end é a área onde eu mais me identifico
+  </ul>
 
 <div align="center">
   <a href="https://github.com/lucasgomes14">
