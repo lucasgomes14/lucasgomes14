@@ -15,7 +15,7 @@ public class void Skills() {
   String[] language  = ["Java", "C++", "C", "Python"];
   String[] frontEnd  = ["Javascript", "HTML", "CSS"];
   String[] libraries  = ["Pandas", "Numpy"];
-  String[] tools = ["Visual Studio Code", "Eclipse", "Jupyter Notebook", "Git", "Github", "Linux"];
+  String[] tools = ["Visual Studio Code", "Eclipse", "Pycharm", "Jupyter Notebook", "Git", "Github", "Linux"];
   String[] operationalSystem = ["Linux", "Windows"];
 }
 ~~~
