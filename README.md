@@ -29,8 +29,16 @@ public class void Skills() {
     <a href="https://github.com/lucasgomes14">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgomes14&theme=tokyonight&hide_langs_below=1"/>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgomes14&show_icons=true&theme=tokyonight&line_height=27" alt="Lucas"/>
-  </div>    
-    <br>
+  </div>  
+  <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <br><br>
+  <h2 align="center"><img src="https://em-content.zobj.net/source/noto-emoji-animations/344/fire_1f525.gif" width="40">Github streak</h2><br>
+  <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgomes14&theme=tokyonight&hide_border=true&border_radius=10&fire=77FFBD&dates=77FFBD" />
+ </div>
+  <br>
 </div>   
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
