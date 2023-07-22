@@ -55,9 +55,17 @@ public class void Skills() {
     <a href="https://twitter.com/LucasGomesL14" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
     </div>
 </div>
+      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div>
+  <br><br>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasgomes14/lucasgomes14/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasgomes14/lucasgomes14/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
-   ![Snake animation](https://github.com/lucasgomes14/lucasgomes14/blob/output/github-contribution-grid-snake.svg)
  
 
     
