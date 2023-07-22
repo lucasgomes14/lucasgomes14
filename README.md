@@ -59,6 +59,7 @@ public class void Skills() {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align = "center">
+  <h2 align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BSicon_uexDSTq.svg/2048px-BSicon_uexDSTq.svg.png" width="25"> Commit
   <br><br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasgomes14/lucasgomes14/output/github-contribution-grid-snake-dark.svg">
