@@ -45,7 +45,7 @@ public class void Skills() {
  
 <div>
   <br><br>
-  <h2 align = "center"><img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="55"><br>Connect with me
+  <h2 align = "center"><img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="55">Connect with me
   <br><br>
   <div align = "center"> 
     <a href="https://www.linkedin.com/in/lucasgomes14/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -59,7 +59,7 @@ public class void Skills() {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align = "center">
-  <h2 align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BSicon_uexDSTq.svg/2048px-BSicon_uexDSTq.svg.png" width="25"><br> Commit
+  <h2 align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BSicon_uexDSTq.svg/2048px-BSicon_uexDSTq.svg.png" width="25"> Commit
   <br><br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasgomes14/lucasgomes14/output/github-contribution-grid-snake-dark.svg">
