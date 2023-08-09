@@ -1,22 +1,19 @@
 <div><h1 align="center">Hello world <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width="35"></h1>
 </div>
 
-~~~java
-package Development;
-
-public class void AboutMe() {
-  String name = "Lucas Gomes";
-  String course = "Computer engineering";
-  String university = "IFPB Campina Grande";
-  String desiredArea = "Back-end";
-
+~~~javascript
+let aboutMe = () => {
+  const name = "Lucas Gomes";
+  let course = "analysis and systems development";
+  let university = "IFPB Esperança";
+  const portfolio = "...";
 }
-public class void Skills() {
-  String[] language  = ["Java", "C++", "C", "Python"];
-  String[] frontEnd  = ["Javascript", "HTML", "CSS"];
-  String[] libraries  = ["Pandas", "Numpy"];
-  String[] tools = ["Visual Studio Code", "Eclipse", "Pycharm", "Jupyter Notebook", "Git", "Github", "Linux"];
-  String[] operationalSystem = ["Linux", "Windows"];
+
+let skills = () => {
+  const acquirements  = ["Java", "C++", "C", "Python", "Javascript",
+    "HTML", "CSS", "MySQL", "SystemVerilog", "Node"];
+  const tools = ["Visual Studio Code", "Eclipse", "Pycharm", "Jupyter Notebook", "Git", "Github"];
+  const operationalSystem = ["Linux", "Windows"];
 }
 ~~~
 
