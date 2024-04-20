@@ -6,7 +6,7 @@ let aboutMe = () => {
   const name = "Lucas Gomes";
   let course = "analysis and systems development";
   let university = "IFPB Esperança";
-  const portfolio = "...";
+  const portfolio = "lucasgomes14.github.io/Portfolio/";
 }
 
 let skills = () => {
