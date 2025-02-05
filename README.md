@@ -1,9 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E90FF&height=120&section=header"/>
+<div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E90FF&height=120&section=header"/>
+  <br><br><br><br><br><br><br>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!;My+name+is+Lucas+Gomes;I+study+analysis+and+systems+development+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
+  <br><br><br><br><br><br><br>
   <h3 align="center">Languages and Tools:</h3>
+  <br><br><br>
   <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -78,6 +83,7 @@
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
   </p>
+  <br><br><br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
